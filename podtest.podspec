@@ -15,8 +15,8 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "podtest"
-  spec.version      = "0.0.1"
+  spec.name         = "podtestest"
+  spec.version      = "0.0.2"
   spec.summary      = "A short description of podtest.hello ."
 
   # This description is used to generate tags and improve search results.
